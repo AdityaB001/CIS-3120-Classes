@@ -17,3 +17,6 @@ class Animal:
 
     def sleep(self):
         print ("zzz zzz")
+
+    def talk(self):
+        print("hi")
